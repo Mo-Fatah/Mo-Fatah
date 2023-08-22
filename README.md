@@ -4,7 +4,7 @@
 
 I'm Mohamed Abdelfatah, a software engineer passionate about open source development, infrastructure, and distributed systems.
 
-- 🔭 I’m currently working as a Software Engineer at [G-Research](https://www.gresearch.com/) Open Source.
+<!-- - 🔭 I’m currently working as a Software Engineer at [G-Research](https://www.gresearch.com/) Open Source.-->
 - 🌱 I’m currently learning about distributed systems and cloud-native architectures.
 - 💬 Ask me about Go, Rust, or anything related to infrastructure development.
 - 📫 How to reach me: Check out my [website](https://fatah.dev) or connect with me on [LinkedIn](https://linkedin.com/in/mohfatah).
